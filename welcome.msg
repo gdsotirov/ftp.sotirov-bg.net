@@ -16,7 +16,7 @@
    If you experience any problems, please write to the server
    admin at %E
 ********************************************************************************
-   You are user #%N of %M allowed in you class '%x',
+   You are user #%N of %M allowed in your class '%x',
    connecting at %T local time (Sofia, Bulgaria),
    from '%R' and your name appears to be '%u'.
 ********************************************************************************

@@ -1,4 +1,4 @@
 # Robots Exclusions file for ftp.sotirov-bg.net
-# $Id: robots.txt,v 1.2 2007/03/27 08:28:57 gsotirov Exp $
 User-agent: *
-Disallow: /
+Disallow: /incoming
+Disallow: /sotirovs

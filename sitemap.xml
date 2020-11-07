@@ -4,8 +4,8 @@
         xsi:schemaLocation="http://www.google.com/schemas/sitemap/0.84
         http://www.google.com/schemas/sitemap/0.84/sitemap.xsd">
 <url>
- <loc>http://ftp.sotirov-bg.net/pub/</loc>
- <lastmod>2006-06-21</lastmod>
+ <loc>https://ftp.sotirov-bg.net/pub/</loc>
+ <lastmod>2020-11-07</lastmod>
  <changefreq>weekly</changefreq>
  <priority>1.0</priority>
 </url>

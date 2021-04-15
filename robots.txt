@@ -2,3 +2,7 @@
 User-agent: *
 Disallow: /incoming
 Disallow: /sotirovs
+
+User-agent: SemrushBot
+Disallow: /
+

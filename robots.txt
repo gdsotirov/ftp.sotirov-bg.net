@@ -3,6 +3,8 @@ User-agent: *
 Disallow: /incoming
 Disallow: /sotirovs
 
+User-agent: AhrefsBot
+User-agent: BLEXBot
 User-agent: SemrushBot
 Disallow: /
 
